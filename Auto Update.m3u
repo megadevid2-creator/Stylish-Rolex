@@ -1,188 +1,39 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/7S-Music.png" group-title="Tamil",7S Music
-
-
-#EXTINF:-1 tvg-id="AaryaaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Tamil",Aaryaa TV
-
-
-#EXTINF:-1 tvg-id="AasthaTamil.in@SD" tvg-logo="https://i.imgur.com/YQK9ewf.png" group-title="Tamil",Aastha Tamil
-
-
-#EXTINF:-1 tvg-id="AathavanTV.uk@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Athavan-TV.png" group-title="Tamil",Aathavan TV
-
-
-#EXTINF:-1 tvg-id="194407" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Adithya-TV.png" group-title="Tamil",Adithya TV
-http://opplex.org:8080/live/628594/515273/380995.ts
-
-#EXTINF:-1 tvg-id="194407" tvg-logo="https://sund-images.sunnxt.com/194407/960x540_AdithyaTV_194407_b6f8fa30-255b-4f4a-8f8f-4264abda8b33.jpg" group-title="Tamil",Adithiya TV
-
-
-#EXTINF:-1 tvg-id="AnandhamTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-25/2511253358000.jpg" group-title="Tamil",Anandham TV
-
-
-#EXTINF:-1 tvg-id="AnimalPlanet.in@SD" tvg-logo=tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Animal-Planet-HD-World.png" group-title="Tamil",Animal Planet HD
-
-
-#EXTINF:-1 tvg-id="AngelTV.in@India" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Tamil",Angel TV
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F898&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="AsiaTV.lk@HD" tvg-logo="https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png" group-title="Tamil",Asia TV
-
-
-#EXTINF:-1 tvg-id="AaseervathamTV.in@SD" tvg-logo="https://i.imgur.com/GlfrYs7.png" group-title="Tamil",Aaseervatham
-
-
-#EXTINF:-1 tvg-id="ChuttiTV.in@SD" tvg-logo="https://i.imgur.com/FSM47sR.png" group-title="Tamil",Chutti TV
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F975&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="CartoonNetwork.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Cartoon-Network.png" group-title="Tamil",Cartoon Network
-
-
-#EXTINF:-1 tvg-id="ColorsTamil.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Tamil-HD.png" group-title="Tamil",Colors Tamil HD
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F8651&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-logo="https://yt3.googleusercontent.com/gOPDl0p0Ssungy3AfKG9MNHeW1QEwRmoFw0_dwDsUulDPE5Hv9nicA3MCjYyzYInzw8kbd5C=s900-c-k-c0x00ffffff-no-rj" group-title="Tamil",DD Tamil
-https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryWorld.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/D-Tamil.png" group-title="Tamil",Discovery World
-
-
-#EXTINF:-1 tvg-id="DiscoveryKids.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Tamil",Discovery Kids
-
-
-#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Tamil",Disney Channel HD
-
-
-#EXTINF:-1 tvg-id="EETTV.ca@SD" tvg-logo="https://i.imgur.com/rntSEDZ.png" group-title="Tamil",EET TV
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F5153&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="Gubbare.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gubbare.png" group-title="Tamil",Gubbare
-
-
-#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/History-TV18-HD.png" group-title="Tamil",History TV18 HD
-
-
-#EXTINF:-1 tvg-id="IBCBakthi.uk@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Bhakti.png" group-title="Tamil",IBC Bakthi
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F1585&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="IBCTamil.uk@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Tamil.png" group-title="Tamil",IBC Tamil
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F3753&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="JothiTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jothi-TV.png" group-title="Tamil",Jothi TV
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F32837&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="1797" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Tamil",J Movie
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F985&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="1059" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-TV-HD.png" group-title="Tamil",Jaya TV HD
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F854&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="JayaMax.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Max.png" group-title="Tamil",Jaya Max
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F903&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="1311" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Plus.png" group-title="Tamil",Jaya Plus
-
-
-#EXTINF:-1 tvg-id="IsaiAruvi.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Isaiaruvi.png" group-title="Tamil",Isai Aruvi
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F813&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="KalaignarMurasu.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Murasu-TV.png" group-title="Tamil",Murasu
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F1637&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Seithigal-TV.png" group-title="Tamil",Seithigal
-
-
-#EXTINF:-1 tvg-id="SirippoliTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sirippoli-1.png" group-title="Tamil",Sirippoli TV
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F4842&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="KalaignarTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kalaignar-TV-1.png" group-title="Tamil",Kalaignar
-http://opplex.org:8080/live/628594/515273/380990.ts
-
-#EXTINF:-1 tvg-id="KalaignarTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kalaignar-TV-1.png" group-title="Tamil",Kalaignar
-
-
-#EXTINF:-1 tvg-id="KTV.in@HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/KTV-HD.png" group-title="Tamil",KTV HD
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F711&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="MadhaTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Madha-TV.png" group-title="Tamil",Madha TV
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F3785&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="MakkalTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Makkal-TV.png" group-title="Tamil",Makkal TV
-
-
-#EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/MalaiMurasu-Seithigal.png" group-title="Tamil",Malai Murasu TV
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F1637&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="MalarTV.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png" group-title="Tamil",Malar TV
-
-
-#EXTINF:-1 tvg-id="MarutamMusic.in@SD" tvg-logo="" group-title="Tamil",MN Music
-
-#EXTINF:-1 tvg-id="NDTVLANKA.lk@SD" tvg-logo="https://i0.wp.com/tamilultra.icu/wp-content/uploads/2025/10/NDTV_LANKA.png" group-title="Tamil",NDTV LANKA
-https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/chunks.m3u8
-
-#EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Moon.png" group-title="Tamil",Moon TV
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F5122&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="PolimerTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Polimer.png" group-title="Tamil",Polimer TV
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F921&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="PuthuyugamTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Puthiya-Yugam.png" group-title="Tamil",Puthuyugam
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F1067&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="RajTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-TV.png" group-title="Tamil",Raj TV
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F983&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="RajDigitalPlus.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-Digital-Plus.png" group-title="Tamil",Raj Digital Plus
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F980&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="RajMusixTamil.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Tamil",Raj Musix
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F981&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="SunTV.in@HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-TV-HD.png" group-title="Tamil",Sun TV HD
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F8681&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="SunMusic.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F723&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="SunLife.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-Life.png" group-title="Tamil",Sun Life
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F901&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="StarVijay.in@HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Vijay-HD.png" group-title="Tamil",Star Vijay HD
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F838&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="TVI.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TVi.png" group-title="Tamil",TVI HD
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F1066&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="TamilanTV.in@SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tamilan_Television.png" group-title="Tamil",Tamilan TV
-https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Tamil",Tunes 6
-http://opplex.org:8080/live/628594/515273/382341.ts
-
-#EXTINF:-1 tvg-id="VasanthTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vasanth-TV.png" group-title="Tamil",Vasanth TV
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F816&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="VendharTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vendhar.png" group-title="Tamil",Vendhar TV
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F817&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="VasanthamTV.lk@SD" tvg-logo="https://i0.wp.com/tamilultra.icu/wp-content/uploads/2023/06/Vasantham_TV.png" group-title="Tamil",Vasantham TV
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F816&mac=00:1A:79:17:1E:AA
-#EXTVLCOPT:http-referrer=https://itn.lk
-https://hls-abiri0ry-livepush.akamaized.net/live_cdn/nsiPyyYPqaaCfd/emECWxBE00V4ULId/tracks-v1a1/rewind-28800.m3u8
-
-#EXTINF:-1 tvg-id="1043" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Takkar.png" group-title="Tamil",Vijay Takkar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-#EXTVLCOPT:http-origin=https://tamilultra.icu
-#EXTVLCOPT:http-referrer=https://tamilultra.icu/player.php?master.m3u8?c=VIJAY_TAKKAR
-https://tamilultra.icu/master.m3u8?c=VIJAY_TAKKAR
-
-#EXTINF:-1 tvg-id="1043" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super_HD.png" group-title="Tamil",Vijay Super HD
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F680&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Tamil-HD.png" group-title="Tamil",Zee Tamil HD
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F716&mac=00:1A:79:17:1E:AA
-
-#EXTINF:-1 tvg-id="ZeeThirai.in@HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Thirai.png" group-title="Tamil",Zee Thirai HD
-http://tv.maxx4k.cc/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http%3A%2F%2Flocalhost%2Fch%2F5118&mac=00:1A:79:17:1E:AA
+#EXTINF:-1 group-title="Tamil",Adhtiya TV
+http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a07f9a250648397507f007bbaaa07f48dd/index.m3u8?token=a1c9538f5b91896e33a6bc7abc828c709f6a98c001e05498e7b3155befcda75700313ab55577e8f648370ee21871c2ac600f95b2fa2761d9482c257abdda8e06ca381ce73784-cabcdf1d33b78fa0193c41d7f6a787f6|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",Chutti TV
+http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a07d96380655296b0cf20eb0bfac7b4d/index.m3u8?token=7aa5227b37074ecee7f803e83d70b0c742aea96b8413d1a9740bfa893306d506570f0c72ef6de0b4fc4d16436415a1c4073925b7201db0f09b357a8efa65b7545d6a8e4f1ae8-e3172fec083637c9eea6a6cad405e18b|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",Colors Tamil
+http://newgl.packetcdn.me:9320/86e4228d28529b58bdb5b93b2ad36c0e4b01a06e913f064d217a1c/index.m3u8?token=8b0e534a95fc56462dc081b5b6617bf6ed0dd5e9e1903f926d000de0b4f255ca212ea84962d57be264c522847fdc7e76e8e7dd51423904095029ba24d9e48c2c6673b1e56190-707b71590002300ac697ea9be786de85|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",EET TV
+http://sphgl.packetcdn.me:9324/86e4228d28529b58bdb5b93b2ad57d025a76ab6199281d5e377d14e0/index.m3u8?token=99dcd7531914ce3a83263dde32d9e300519b20c0a0a58c90b88c1c2a315811127f5a6aab3bbac065b29ae58dbab007d1767e7ab50df534a10a1692abcb73797229d2b0901480-9cabf88884f418f857ee4e5cb8b1a2aa|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",J Movie
+http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a07481201d5729710bfb05a5b3a87e/index.m3u8?token=193df9cdb42d19acb5e89017341ce1349826a11c82666ed28ae6435d47e22601eff6a76a532fec7ad9a63ab0937987c1ddbe90d91c33ee32aea6f802b67d5db9d07cd413176d-7ea7683892e5027b2832943dfecbafe5|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",Isai Aruvi
+http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a0778d2c1b5e21660df218bbaaa07f48dd/index.m3u8?token=0ef2d9ef00e2a7ae7978fd1e7b6b4a2cd0526b7ce4267c0fcdaaec7bf80717ca0316c7d172f61ef48475c973894c573d231f333fccf0ff9d647de8a61d546f8c2c3227c77085-88849c30d079d30d74cf2be4d76c9dd8|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",Sirippoli
+http://ar.packetcdn.me:9596/86e4228d28529b58bdb5b93b2ad56902557ba0759f251753216b0fe51dbbb0a061/index.m3u8?token=9019acda181d8c62c08577d9dab1e233c369fab7dff943185bb327fd44e6ac90cb4b4119c1530482ba365ec9818edc8f1341a1898624328660f81336e442f6e51a2932a901a9-2c07f81f6586444756caa9a920a2e615|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",Moon TV
+http://sphgl.packetcdn.me:9324/86e4228d28529b58bdb5b93b2ad57d024072b37b9d241c422f/index.m3u8?token=4d2e8a57394400a0e7d6f5974e595e5932bf079d44f3ae51cb6d71258d4727062a24abf0d02e725201e7a21c437bb0f4c67a47cf0d376e6a1c60390940143bf63f003784900f-d3ec8b531bd7ed2eb9d3618d768f1042|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",Polimer
+http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a06e91211b4c256607ea14b3adbe7a45cef12a67a2ef/index.m3u8?token=7a12c5f897d9e837af8eb29aa8e04f2dab83da36e5cc6a17e86b8ba6dbbc6f2585739d30b1e53d33cb665001d0ceccf11d987b7503b86a9b49f5ebb13a9bd5d197afafe78b23-d1aa599622924ed3270de64dbf12f03f|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",Puthuyugam
+http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a06e8b391a543f6d0de310a9a1b5734cd8e9/index.m3u8?token=b38dc1adfd32db1047f4c46b930a8d9b9df4406932770ad31b499ffa7ebf4b0332941382cb1ab056616879be34245d6024b221f14dcbf81583abcb2e3d2493f3d8684fab3e6a-e0150aa2769cf62358ba5c365351c748|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",Raj Musix
+http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a06c9f270d4c356711fc0eb0bfac7b4d/index.m3u8?token=bd7ac0d766b786d5c85e0a32d1c0dc69cdc6e8ec761280e4562ce66f02b9a5cdceb3ed9747d430a6e602c3a4de4b847ebb11df227c44ffdd36cda1240f9cffec4c48ec5ec5c0-03c9880e21cfde00b7526f3ccff5c36e|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",Sun TV
+http://newgl.packetcdn.me:9320/86e4228d28529b58bdb5b93b2ad37902250fa0718c21134f247b/index.m3u8?token=c973c2c1a6224cb57f4a766d39d5d9f521f6ab219fa515bccdabadfd879bb8795f94c47c178c2b854c7e0936119e1c0d3c710b7c696e558a7a733b4cfd7a3138e93ef6dc872f-5aab0f2bfc68bbc191aee43144a0c4f3|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",Sai TV
+http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a06d9f240d55366b0ce51cadb2/index.m3u8?token=0c3000f40ce12417f5ced911ca378c0679560452f0ddeb986f623733979a1bfc1932439f2a8317b8c767a434959a5d667aba11b5ea0139183b1bfe193fdfa549d97c2267c693-7f77dabf70c2f5099ec32679d938bc49|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",Sooriyan TV
+http://ex-fr.packetcdn.me:9192/86e4228d28529b58bdb5b93b2adb67194768b1779d26174d2f701deb1fbbadb3/index.m3u8?token=c023dea10a0fb30719a46d44c8cbad70277f68a72532e4c2794ecf05325d1800953616bdf47e698646ef85bca870ad1e80874bda223f40f4bb9596c9c4449040962f6ff22e13-f5af2d98908e7967f0309e24bdb9f9e3|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",Star Sports 1 Tamil
+http://78.40.140.157:8263/86e4228d28529b58bdb5b93b2ad5601a587eac7681251d4d2c6d0feb1ea0a1a07c48dce43f63a4edbdb9f45c43a67d559a3b68dc4d/index.m3u8?token=872ca0e2c99acf536c5708c9b9c74adaeb8cc210b1ff611789dca4ff07127266340de6f06cc993908f3117d5f03301e2c9d4beaad298adec9dcf9ecacc1b8ad6b82772be52c0-55a0a88c56e9fa70588e45d1acf60647|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",TVI HD
+http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a06a88240d49246b0ce51cadb2/index.m3u8?token=c20ad5e869f562c5921dd6f9b610e9a312d34945cab3350de4ac7eda4aeef9ce800853d0d3aa1a1ee0db5c32042be99d206a3a77c6f065ab24a5782402dc2a6815cd06a58b77-026f7dde34a300dea5c3ecb3fbcebc36|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",Vasanth
+http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a0689f3e134f347c07f007bbaaa07f48dd/index.m3u8?token=41ee53aebc07f764b9604f43295f42b0c893637af98b8c43e6f90688026929731251949f14c8670d672db766198d625af2603695ea3c2f4c5667ceae2bfd9cb8fe8abdb077d4-3949fd73c19bb9c3bea6a0cd541e11e8|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",Vendhar
+http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a0689b231649216607f007bbaaa07f48dd/index.m3u8?token=c2ae11c7b47bb8eb3ee305af66575121a770a550985813b8e9c9e56e1c4524f233ce25d1b4960f443a2fb89aadcbc28a43eee2961f9720204752326f0e687c8f7c9d0de62353-ca3f35d203d08a0a47dc876b2c67b170|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="Tamil",Zee Thirai
+http://sphgl.packetcdn.me:9324/86e4228d28529b58bdb5b93b2ad57d025978a9779b3e0640326b1feb1da2/index.m3u8?token=37b332b1fdd5e2da7a5069c37338d0e4a18e98f6366a652b26272da678c609ba0861db7f50b279fe0e029541d9e2000593c13b6d6bd62848ca7e1459e8a389ab41db5134c3a9-af22b93d751e3da89b03bf1fd6fd4db7|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
